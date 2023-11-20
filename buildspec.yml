@@ -1,0 +1,20 @@
+version: 0.1
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.11
+    commands:
+      - pip3 install --upgrade pip
+      # Install dependencies needed for running the static analysis
+      - pip3 install -r requirements.txt
+      
+
+  pre_build:
+    commands:
+      - python3 --version
+      
+
+artifacts:
+  files:
+    - '**/*'
