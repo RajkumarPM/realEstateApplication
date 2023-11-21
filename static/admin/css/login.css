@@ -15,7 +15,7 @@ body.login {
 }
 
 .login #header h1 a {
-    color: #fff;
+    color: #F2F9F0;
 }
 
 .login #content {
@@ -23,7 +23,7 @@ body.login {
 }
 
 .login #container {
-    background: #fff;
+    background: #F2F9F0;
     border: 1px solid #eaeaea;
     border-radius: 4px;
     overflow: hidden;

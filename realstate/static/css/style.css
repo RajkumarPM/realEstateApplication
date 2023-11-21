@@ -1,5 +1,5 @@
 .btn-secondary {
-  color: #fff !important; }
+  color: #F2F9F0 !important; }
 
 img {
   width: 100%; }
@@ -18,7 +18,7 @@ img {
   background: url(../img/showcase.jpg) no-repeat top center fixed/cover;
   position: relative;
   min-height: 450px;
-  color: #fff;
+  color: #F2F9F0;
   padding-top: 3rem; }
   #showcase .home-search {
     min-height: 400px;
@@ -31,10 +31,10 @@ img {
     left: 0;
     min-height: 400px;
     width: 100%;
-    background: rgba(51, 51, 51, 0.8); }
+    background: #15B0BE; }
 
 #showcase-inner {
-  background: rgba(51, 51, 51, 0.8);
+  background: #15B0BE;
   position: relative;
   overflow: hidden;
   min-height: 200px; }
@@ -45,7 +45,7 @@ img {
     left: 0;
     min-height: 100%;
     width: 100%;
-    background: rgba(51, 51, 51, 0.8); }
+    background: #15B0BE; }
   #showcase-inner.showcase-search {
     min-height: 270px; }
 

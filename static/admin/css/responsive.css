@@ -138,7 +138,7 @@ input[type="submit"], button {
     }
 
     #changelist .actions select {
-        background: #fff;
+        background: #F2F9F0;
     }
 
     #changelist .actions .button {
@@ -955,7 +955,7 @@ input[type="submit"], button {
     }
 
     .timelist a {
-        background: #fff;
+        background: #F2F9F0;
         padding: 4px;
     }
 

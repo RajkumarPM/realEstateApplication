@@ -4,9 +4,9 @@
       --primary-fg: #f7f7f7;
   
       --body-fg: #eeeeee;
-      --body-bg: #121212;
+      --body-bg: #0FA3B1;
       --body-quiet-color: #e0e0e0;
-      --body-loud-color: #ffffff;
+      --body-loud-color: #F2F9F0fff;
   
       --breadcrumbs-link-fg: #e0e0e0;
       --breadcrumbs-bg: var(--primary);
@@ -38,9 +38,9 @@ html[data-theme="dark"] {
     --primary-fg: #f7f7f7;
 
     --body-fg: #eeeeee;
-    --body-bg: #121212;
+    --body-bg: #0FA3B1;
     --body-quiet-color: #e0e0e0;
-    --body-loud-color: #ffffff;
+    --body-loud-color: #F2F9F0fff;
 
     --breadcrumbs-link-fg: #e0e0e0;
     --breadcrumbs-bg: var(--primary);

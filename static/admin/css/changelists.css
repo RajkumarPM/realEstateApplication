@@ -40,7 +40,7 @@
 #changelist .paginator {
     color: #666;
     border-bottom: 1px solid #eee;
-    background: #fff;
+    background: #F2F9F0;
     overflow: hidden;
 }
 
@@ -102,7 +102,7 @@
     padding: 4px 8px;
     margin: 0;
     vertical-align: middle;
-    background: #fff;
+    background: #F2F9F0;
     box-shadow: 0 -15px 20px -10px rgba(0, 0, 0, 0.15) inset;
     cursor: pointer;
     color: #333;
@@ -228,7 +228,7 @@
     padding: 2px 6px;
     background: #79aec8;
     text-decoration: none;
-    color: #fff;
+    color: #F2F9F0;
 }
 
 .paginator a.showall {
@@ -272,12 +272,12 @@
 }
 
 #changelist table tbody tr.selected {
-    background-color: #FFFFCC;
+    background-color: #F2F9F0FCC;
 }
 
 #changelist .actions {
     padding: 10px;
-    background: #fff;
+    background: #F2F9F0;
     border-top: none;
     border-bottom: none;
     line-height: 24px;
@@ -285,8 +285,8 @@
 }
 
 #changelist .actions.selected {
-    background: #fffccf;
-    border-top: 1px solid #fffee8;
+    background: #F2F9F0ccf;
+    border-top: 1px solid #F2F9F0ee8;
     border-bottom: 1px solid #edecd6;
 }
 
@@ -330,7 +330,7 @@
     font-size: 13px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    background: #fff;
+    background: #F2F9F0;
     box-shadow: 0 -15px 20px -10px rgba(0, 0, 0, 0.15) inset;
     cursor: pointer;
     height: 24px;
