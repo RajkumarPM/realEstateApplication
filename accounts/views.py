@@ -72,4 +72,4 @@ def dashboard(request):
     return render(request, 'accounts/dashboard.html', context)
 
 
-#check the pipeline build
+#check the pipeline build.
